@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'my first demo uplode', ),
+      home: MyHomePage(title: 'my first demo uplode[', ),
     );
   }
 }
